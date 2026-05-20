@@ -1,0 +1,22 @@
+{
+  "name": "Franklin",
+  "short_name": "Franklin",
+  "description": "Franklin helps translate spending into work time and track purchase decisions.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#f7f4ef",
+  "theme_color": "#f7f4ef",
+  "categories": ["finance", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
